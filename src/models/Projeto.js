@@ -11,7 +11,7 @@ const projetos = [
     }
 ]
 
-const pegarProjetos = ()=>{
+const pegarProjetos = () => {
     return projetos;
 }
 
