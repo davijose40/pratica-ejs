@@ -1,4 +1,5 @@
-
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 <!-- name the thing -->
 # Pratica-ejs
 
@@ -16,7 +17,9 @@ Before you begin, ensure you have met the following requirements:
 `<git clone https://github.com/davijose40/pratica-ejs.git>`, then in the folder ***pratica-ejs*** run `<npm init>` and you are good to go!
 
 <!-- How to use the thing -->
-## To run just use npm or nodemon: `<npm start>` or `<nodemon start>`, look at `<index.js>` in the root directory if you need to be sure about server port;
+## To run just use npm or nodemon: 
+`<npm start>` or `<nodemon start>`, 
+look at `<index.js>` in the root directory if you need to  be sure about server port;
 
 <!-- How to contribute to the thing -->
 ## To contribute to **Pratica-ejs**, follow these esteps:
@@ -31,8 +34,8 @@ Before you begin, ensure you have met the following requirements:
 <!-- Add contributors -->
 ## Contributors
 Thanks to the following people and school who have contributed to this repository
-* @https://github.com/vinnydeveloper
-* @https://github.com/DigitalHouseBrasil
+* @vinnydeveloper
+* @DigitalHouseBrasil
 
 
 <!-- Add acknowledgements -->
