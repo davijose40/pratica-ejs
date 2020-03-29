@@ -1,5 +1,7 @@
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
+
+<!-- badges -->
+https://img.shields.io/github/tag/expressjs/express.svg
+
 <!-- name the thing -->
 # Pratica-ejs
 
