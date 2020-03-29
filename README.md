@@ -1,9 +1,7 @@
 
 <!-- badges -->
 <!-- Issues -->
-[![davijose40](https://img.shields.io/badge/Issues-0%20open-green)](https://img.shields.io/github/issues/davijose40/pratica-ejs) [fork](https://img.shields.io/github/forks/davijose40/pratica-ejs)
-<!-- social -->
-[![davijose40](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fdavijose40%2Fpratica-ejs)](https://github.com/davijose40/pratica-ejs)
+[![davijose40](https://img.shields.io/badge/Issues-0%20open-green)](https://img.shields.io/github/issues/davijose40/pratica-ejs) ![GitHub forks](https://img.shields.io/github/forks/davijose40/pratica-ejs?style=social) [![davijose40](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fdavijose40%2Fpratica-ejs)](https://github.com/davijose40/pratica-ejs)
 
 
 
