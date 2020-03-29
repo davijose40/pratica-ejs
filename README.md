@@ -1,6 +1,6 @@
 
 <!-- badges -->
-[GitHub](https://img.shields.io/github/tag/expressjs/express.svg)
+[![davijose40](https://img.shields.io/badge/Issues-0%20open-green)](https://img.shields.io/github/issues/davijose40/pratica-ejs)
 
 <!-- name the thing -->
 # Pratica-ejs
